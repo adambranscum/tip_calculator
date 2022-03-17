@@ -1,0 +1,16 @@
+/* CSS Document */
+body html {
+  font-family: Roboto;
+}
+
+.dropshadow{
+	-ms-box-shadow: 0px 3px 5px #444444 !important;
+-moz-box-shadow: 0px 3px 5px #444444 !important;
+-webkit-box-shadow: 0px 3px 5px #444444 !important;
+box-shadow: 0px 3px 5px #444444 !important;
+}
+
+.bg-rec {
+	background-image:url("images/bg-receipt.png");
+	background-size:cover;
+}
